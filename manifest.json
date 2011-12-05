@@ -1,0 +1,11 @@
+{
+    "name": "GenPass",
+    "version": "0.1",
+    "description": "This is a simple chrome extention",
+    "background_page": "background.html",
+    "browser_action": {
+        "default_title": "Generate password",
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    }
+}
